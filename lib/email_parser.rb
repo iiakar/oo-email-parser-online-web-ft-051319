@@ -10,7 +10,7 @@ class EmailParser
 		@emails= emails
 	end
 	
-	def parse
+	#def parse
 		#@emails = @emails.gsub(/[\s,]/ ," ").split
 		# @email is an array now
 		#@emails.uniq
